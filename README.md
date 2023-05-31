@@ -1,2 +1,2 @@
-# Swordsman
+# PySword
 Python Password Manager
